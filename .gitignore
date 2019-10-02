@@ -20,3 +20,4 @@ venv.bak/
 
 # datasets
 *.csv
+*.zip
