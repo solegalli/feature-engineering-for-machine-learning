@@ -21,6 +21,7 @@ venv.bak/
 # datasets
 *.csv
 *.zip
+*.data
 
 # files not to put in repo
 Make-toy-finance-dataset.ipynb
