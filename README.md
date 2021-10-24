@@ -1,5 +1,5 @@
 ﻿![PythonVersion](https://img.shields.io/badge/python-3.6%20|3.7%20|%203.8%20|%203.9-success)
-[![License https://github.com/solegalli/feature-engineering-for-machine-learning/blob/master/LICENSE.md](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/feature-engineering-for-machine-learning/blob/master/LICENSE.md)
+[![License https://github.com/solegalli/feature-engineering-for-machine-learning/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/feature-engineering-for-machine-learning/blob/master/LICENSE)
 [![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
 
 ## Feature Engineering for Machine Learning - Code Repository
