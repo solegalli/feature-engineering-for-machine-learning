@@ -4,12 +4,13 @@
 
 ## Feature Engineering for Machine Learning - Code Repository
 
-Code repository for the Online Course [Feature Engineering for Machine Learning](https://www.udemy.com/course/feature-engineering-for-machine-learning/?referralCode=A855148E05283015CF06)
+Code repository for the online course [Feature Engineering for Machine Learning](https://www.courses.trainindata.com/p/feature-engineering-for-machine-learning)
 
 Published November, 2017
-Last Updated December, 2020
 
-[<img src="./feml_logo.png" width="248">](https://www.udemy.com/course/feature-engineering-for-machine-learning/?referralCode=A855148E05283015CF06)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
+Actively maintained.
+
+[<img src="./feml_logo.png" width="248">](https://www.courses.trainindata.com/p/feature-engineering-for-machine-learning)
 
 ## Table of Contents
 
@@ -40,6 +41,7 @@ Last Updated December, 2020
 
 4. **Multivariate Imputation**
 	1. MICE
+	2. KNN imputation
 
 5. **Categorical Variable Encoding**
 	1. One hot encoding: simple and of frequent categories
@@ -95,4 +97,4 @@ Last Updated December, 2020
 
 ## Links
 
-- [Online Course](https://www.udemy.com/course/feature-engineering-for-machine-learning/?referralCode=A855148E05283015CF06)
+- [Online Course](https://www.courses.trainindata.com/p/feature-engineering-for-machine-learning)
