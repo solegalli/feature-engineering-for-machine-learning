@@ -1,16 +1,16 @@
-﻿![PythonVersion](https://img.shields.io/badge/python-3.6%20|3.7%20|%203.8%20|%203.9-success)
+﻿![PythonVersion](https://img.shields.io/badge/python-3.7%20|3.8%20|%203.9%20|%203.10-success)
 [![License https://github.com/solegalli/feature-engineering-for-machine-learning/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/feature-engineering-for-machine-learning/blob/master/LICENSE)
 [![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
 
 ## Feature Engineering for Machine Learning - Code Repository
 
-Code repository for the online course [Feature Engineering for Machine Learning](https://www.courses.trainindata.com/p/feature-engineering-for-machine-learning)
+Code repository for the online course [Feature Engineering for Machine Learning](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
 
 Published November, 2017
 
 Actively maintained.
 
-[<img src="./feml_logo.png" width="248">](https://www.courses.trainindata.com/p/feature-engineering-for-machine-learning)
+[<img src="./feml_logo.png" width="248">](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
 
 ## Table of Contents
 
@@ -97,4 +97,4 @@ Actively maintained.
 
 ## Links
 
-- [Online Course](https://www.courses.trainindata.com/p/feature-engineering-for-machine-learning)
+- [Online Course](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
