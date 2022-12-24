@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.db
 
 # Jupyter Notebook
 .ipynb_checkpoints
