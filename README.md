@@ -48,7 +48,6 @@ Actively maintained.
 	2. Ordinal encoding: arbitrary and ordered
 	3. Target mean encoding
 	4. Weight of evidence
-	5. Probability Ratio
 	6. Rare Label encoding
 	7. Encoding with Scikit-learn
 	8. Encoding with Feature-engine
