@@ -73,22 +73,28 @@ Actively maintained.
 	1. Capping
 	2. Trimming
 
-9. **Feature Scaling**
+9. **Datetime**
+	1. Extracting day, month, week, etc
+	2. Extracting hr, min, sec, etc
+	3. Capturing elapsed time
+	4. Working with timezones
+	
+10. **Mixed variables**
+	1. Creating new variables from strings and numbers
+
+11. **Feature creation**
+	1. Sum, prod, count, mean, std, etc
+	2. Div, sub
+	3. Polynomial expansion
+	4. Splines
+	
+12. **Feature Scaling**
 	1. Standardisation
 	2. MinMaxScaling
 	3. MaxAbsoluteScaling
 	4. RobustScaling
 
-10. **Mixed variables**
-	1. Creating new variables from strings and numbers
-
-11. **Datetime**
-	1. Extracting day, month, week, etc
-	2. Extracting hr, min, sec, etc
-	3. Capturing elapsed time
-	4. Working with timezones
-
-12. **Pipelines**
+13. **Pipelines**
 	1. Classification Pipeline
 	2. Regression Pipeline
 	3. Pipeline with cross-validation
