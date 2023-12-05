@@ -4,11 +4,13 @@
 
 ## Feature Engineering for Machine Learning - Code Repository
 
+[<img src="./course-banner.png">](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
+
 Code repository for the online course [Feature Engineering for Machine Learning](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
 
-Published November, 2017
+**Launched**: November, 2017
 
-Actively maintained.
+**Actively maintained**.
 
 [<img src="./feml_logo.png" width="248">](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
 
